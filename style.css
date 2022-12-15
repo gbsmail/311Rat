@@ -1,0 +1,42 @@
+
+html {
+    max-width: 70ch;
+    margin-inline: auto;
+ }
+ 
+ body {
+    background-color: rgb(231, 236, 242);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ }
+ img {max-width: 50ch; }
+ p {
+    font-weight: normal;
+ }
+ h1 {
+    color: rgb(52, 51, 53);
+  }
+ 
+ h2 {
+    color: rgb(52, 51, 53);
+  }
+ h3
+ {
+    color: rgb(52, 51, 53);
+ }
+ h4
+ {
+    color: rgb(52, 51, 53);
+ font-weight: bold;
+ }
+ blockquote
+ {
+    background-color: rgb(199, 208, 212);
+    border-left: 10px solid rgb(105, 164, 191);
+    margin: 1.5em 10px;
+  padding: 0.5em 10px;
+ }
+ figcaption {
+    font-style:italic
+ }
+ 

@@ -1,0 +1,77 @@
+/* narrow, centered column */
+/* images contained within column */
+<html>
+<style> {
+   max-width: 70ch;
+   margin-inline: auto;
+}
+
+body {
+   background-color: rgb(231, 236, 242);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img {max-width: 50ch; }
+p {
+   font-weight: normal;
+}
+h1 {
+   color: rgb(52, 51, 53);
+ }
+
+h2 {
+   color: rgb(52, 51, 53);
+ }
+h3
+{
+   color: rgb(52, 51, 53);
+}
+h4
+{
+   color: rgb(52, 51, 53);
+font-weight: bold;
+}
+blockquote
+{
+   background-color: rgb(199, 208, 212);
+   border-left: 10px solid rgb(105, 164, 191);
+   margin: 1.5em 10px;
+ padding: 0.5em 10px;
+}
+figcaption {
+   font-style:italic
+}
+</style>
+<body>
+    <h1>311 Rat Sightings</h1>
+    <p>By Gretchen Smail</p>
+    <p>Novemb, 2022</p>
+<img src="avocado-45bccf2-scaled.jpeg">
+<p>
+   Last month, New York City Mayor Eric Adams announced he was looking for a rat czar, offering up to a $170,000 salary to tackle what many New Yorkers already know: the number of rats in the city has exploded.
+   
+<p>
+   Though Sanitation Department Commissioner Jessica Tisch famously said, “The rats don’t run this city. We do,” the numbers tell a different story. For the past ten years, the city has been logging 311 calls for rat sightings around the city, which provide a small window into how extensive the rat problem is. According to NYC Open Data, there have been over 200,000 rat sightings reported to 311 since 2010. 
+   
+   The numbers increased every year, but there was a noticeable jump in calls during the pandemic. In 2020, there were 16,262 rat sighting complaints, and that number increased by 65% in 2021. Based on the current data, 2022 is on track to match that. 
+   
+   Experts say that a number of pandemic factors likely caused this. For one, food availability became an issue. “The shuttering of restaurants and other food service establishments reduced or eliminated food sources that rats previously relied on,” explained Dr. Matt Frye, an educator with the New York State Integrated Pest Management Program at Cornell University. “This resulted in more competition for food, and rats engaged in more risky behaviors, such as foraging at different times of the day or foraging longer distances to find food, making them more likely to be observed and reported.”
+   
+   With people working from home, Dr. Frye said rats then moved into more residential areas, where people were preparing food and thus generating garbage — their main source of nutrition. And stuck “at home, people might have been more likely to report rats sightings, compared to sightings on their way to/from or at work,” Dr. Frye said. 
+   
+   Dr. Frye said that rat populations have also increased due to climate change, as warmer winters allow for higher survival rates. Human population growth also naturally increases rodent populations because of the amount of waste we generate.
+   
+   This last point is important. Caroline Bragdon, the director of neighborhood interventions, pest control services at New York City’s Department of Health, said the lack of waste management during the pandemic played a huge role in our current rat boom. Former Mayor Bill de Blasio cut the sanitation budget in 2020, which led to a 63% drop in consistent trash pick-ups early on in the pandemic. Though the city restored the service a few months later, that was enough to cause a population spike.
+   
+   “Large populations indicate large food sources, which is usually a garbage problem,” Bragdon explained. “Our key to long term success is to keep the city clean. We produce a lot of waste, and we don’t have great systems to remove and store our waste.” 
+   Bragdon said Adams’ plan to change the trash pickup times will help. “We leave our garbage out from dusk to dawn. So we’re basically telling rats you can have free food whenever you want, and you can have it right at your doorstep,” she said. She explained how rats quickly came to dominate the city: rats live for only one year, but can birth 8-12 pups about every month. As long as there’s a steady food source, one female rate can produce over 84 descendants in a single year. This is why Adams’ various extermination efforts have barely made a dent, as the traps often just catch the smaller and younger rats, Bragdon said.
+   
+   Though this is a problem all over, it’s particularly acute in New York City, which is more densely populated. Though Brooklyn has a higher overall population, Manhattan has a higher concentration of rat complaints, with 4.39 complaints per 1,000 residents, compared to Brooklyn’s 3.58 complaints. And when you break down Manhattan by neighborhoods, the district with the highest complaint is the Upper West Side, followed by Central Harlem and Washington Heights.
+   
+   Dr. Frye said he advises caution when interpreting 311 data, as certain groups and areas might use the system more than others, which creates a “reporting bias” within the data. For example, “it’s suspected that certain segments of the population are not at all likely to use 311 to report,” he said, like immigrant or lower income communities. 
+   
+   Furthermore, he said we still don’t have an actual standardized method to assess how big the rodent population really is in New York City. According to a 2018 urban ecology study, an increase in public complaints does reflect a relative abundance in rat populations. But “without a reliable method to measure rodent populations,” Dr. Frye said, we don’t actually know to what extent rats actually run this city.
+   
+</body>
+
+</html>
